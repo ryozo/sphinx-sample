@@ -24,7 +24,6 @@ Sphinxテストページ
 
 .. list-table::
   :header-rows: 1
-  :widths: 5,5
 
   * - ナンバー
     - データ
