@@ -21,6 +21,7 @@ Sphinxテストページ
      - 
    * - \ ``hoge.hoge()``\ 
      - | \ ``hoge.hoge()``\ 
+       | ``hoge.hoge()``
        | \  \ ``.fuga()``\
 
 
