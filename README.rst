@@ -20,7 +20,8 @@ Sphinxテストページ
    * - テスト
      - 
    * - \ ``hoge.hoge()``\ 
-     -
+     - | hoge
+       | fuga
 
 
 .. list-table::
