@@ -19,6 +19,6 @@ Sphinxテストページ
 
    * - テスト
      - 
-   * - \ ``hoge.hoge()``\ 
-       \ ``hoge.hoge()``\ 
+   * - | \ ``hoge.hoge()``\ 
+       | \ ``hoge.hoge()``\ 
 
