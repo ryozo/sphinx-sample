@@ -20,6 +20,7 @@ Sphinxテストページ
    * - テスト
      - 
    * - \ ``hoge.hoge()``\ 
+     -
 
 
 .. list-table::
