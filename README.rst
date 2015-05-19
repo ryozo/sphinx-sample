@@ -130,6 +130,11 @@
      - 「3.5.1」 「application.yml」の変更
      - 「3.5.1」 「User」の「エンティティ」と「リポジトリ」作成
      - 2014-11-24
+   * - P.128 SecurityConfigクラス
+     - | \ ``.usernameParameter("username").passwordParameter("password")``\ 
+       | \ ``.and();``\ 
+     - \ ``.usernameParameter("username").passwordParameter("password");``\ 
+     - 2015-05-19
    * - P.131 loginForm.html (1)付近
      - Invalid username and password.
      - ユーザー名またはパスワードが正しくありません。
