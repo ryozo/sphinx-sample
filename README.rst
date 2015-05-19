@@ -19,17 +19,9 @@
      - ここで、2.2.3で作成したdata.sqlをsrc/main/resourcesにコピーしてください。その後、「Appクラス」を実行しましょう。データの出力順が、以下のように変わりました。
      - 2015-02-21
    * - P.128 SecurityConfigクラス
-     - | \ ``http.formLogin().loginProcessingUrl("/login")``\ 
-       | \ ``.loginPage("/loginForm")``\ 
-       | \ ``.failureUrl("/loginForm?error")``\ 
-       | \ ``.defaultSuccessUrl("/customers", true)``\ 
-       | \ ``.usernameParameter("username").passwordParameter("password")``\ 
+     - | \ ``.usernameParameter("username").passwordParameter("password")``\ 
        | \ ``.and();``\ 
-     - | \ ``http.formLogin().loginProcessingUrl("/login")``\ 
-       | \ ``.loginPage("/loginForm")``\ 
-       | \ ``.failureUrl("/loginForm?error")``\ 
-       | \ ``.defaultSuccessUrl("/customers", true)``\ 
-       | \ ``.usernameParameter("username").passwordParameter("password");``\ 
+     - \ ``.usernameParameter("username").passwordParameter("password");``\ 
      - 2015-05-19
    * - P.133 ファイルパス(2箇所)
      - ssrc/main/resources/db/migration/V3_add_user.sql
